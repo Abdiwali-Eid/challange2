@@ -1,0 +1,125 @@
+/* :root{
+    --shadow: 0 1px 5px rgba(255, 255, 255, 0.3);
+}
+
+.nav ul {
+    margin-left: 40px;
+    display: grid;
+    grid-gap:20px;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(5, 1fr);
+  }
+  .sawiro{
+    background-color: whitesmoke;
+  }
+  */
+
+
+  .nav ul {
+    margin-left: 40px;
+    display: grid;
+    grid-gap:20px;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(5, 1fr);
+  }
+  /* .sectionka1aad{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-rows: repeat(1, 1fr);
+  } */
+  .qaybi{
+    display: grid;
+    grid-column-start: 1;
+  }
+  img{
+    border: 10px solid white;
+  }
+  .qaybi{
+    background: #FFFFFF;
+box-shadow: 0px 0px 46px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+width: 90%;
+margin-top: 20px;
+margin-left: 50px;
+height: 45%;
+  }
+  .qaybi2{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 46px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    width: 90%;
+    margin-top: 20px;
+    height: 45%;
+  }
+  .imag-1{
+    margin-left: 60px;
+  }
+
+
+  .sectionka1aad{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+  }
+  /* .qaybi{
+   
+    width: 90%;
+    height: 230px;
+    padding-top: 20px;
+    background-color: white; */
+    /* margin-bottom: 600px; */
+    /* box-shadow: var(--shadow); */
+    /* margin-left: 100px; */
+/* 
+  } */
+
+
+  /* .qaybi2{
+   margin-right:400px ;
+    width: 90%;
+    height: 230px;
+    padding-top: 20px;
+    background-color: white;
+    margin-bottom: 600px;
+    box-shadow: var(--shadow); */
+/* 
+  } */
+
+  /* .qaybi3{
+    margin-right:400px ;
+     width: 90%;
+     height: 230px;
+     padding-top: 20px;
+     background-color: white;
+     margin-bottom: 600px;
+     box-shadow: var(--shadow);
+ 
+   } */
+ 
+/* 
+  .imag-1{
+    width: 90%;
+     margin-left: 100px;
+
+   
+  } */
+  /* .sectionka2aad{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    margin-bottom: 800px;
+   
+    
+  } */
+ /* .img-last{
+    margin-bottom: 500px;
+ }
+ img{
+    border: 7px solid white;
+ } 
+  /* .section2{
+    
+  }
+  
